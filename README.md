@@ -25,7 +25,7 @@
 ![image](https://user-images.githubusercontent.com/90389323/189699932-615da8be-7610-4b81-9b15-691ad24b951c.png)</br>
 
 우리의 방식)</br>
-![image](https://user-images.githubusercontent.com/90389323/189700258-1f9d1e92-d0c7-432e-b863-b73cd4fc2edd.png)</br>
+![image](https://user-images.githubusercontent.com/90389323/189700258-1f9d1e92-d0c7-432e-b863-b73cd4fc2edd.png)</br></br>
 ● 대분류.소분류.분류번호.고유번호.출판사 첫 글자.작가 첫 글자.도서 이름 네 글자</br>
 ● 기존의 방식보다 가독성이 쉽다고 느낄 수 있다.</br>
 
