@@ -1,5 +1,5 @@
 # C언어 도서 관리 토이 프로그램
-📅 프로젝트 기간 : 1달
+프로젝트 기간 : 1달
 
 ## Team
 원진 : [https://github.com/jangwon3828](https://github.com/jangwon3828)</br>
