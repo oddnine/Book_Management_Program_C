@@ -1,9 +1,9 @@
 # C언어 도서 관리 토이 프로그램
-프로젝트 기간 : 1달
+📅프로젝트 기간 : 2021-06-23~2021-07-07
 
 ## Team
-원진 : [https://github.com/jangwon3828](https://github.com/jangwon3828)</br>
-준혁 : [https://github.com/oddnine](https://github.com/oddnine)</br>
+😀원진 : [https://github.com/jangwon3828](https://github.com/jangwon3828)</br>
+😀준혁 : [https://github.com/oddnine](https://github.com/oddnine)</br>
 
 ## 실행 화면
 ● 메뉴</br>
